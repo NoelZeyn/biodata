@@ -26,6 +26,9 @@ Saya adalah mahasiswa Teknologi Informasi yang memiliki minat tinggi di bidang p
 
 ## 🚀 Projects
 
+### 🧑‍⚕️ Capstone Project - Posyandu Care(https://capstonesi.online)
+Transformasi digital sistem informasi Posyandu berbasis web dan mobile untuk meningkatkan layanan kesehatan masyarakat.
+
 ### 🌐 [Portfolio Website](https://portofolio-mo52.vercel.app)
 Situs web pribadi yang menampilkan biodata, pengalaman, dan proyek.
 
@@ -35,8 +38,7 @@ Game trivia interaktif berbasis web yang dibangun dengan desain menarik dan UX y
 ### 🎧 [Music Platform Website](https://musicplat.vercel.app)
 Platform musik berbasis web yang memungkinkan pengguna streaming atau mengelola koleksi musik.
 
-### 🧑‍⚕️ Capstone Project - Posyandu Care
-Transformasi digital sistem informasi Posyandu berbasis web dan mobile untuk meningkatkan layanan kesehatan masyarakat.
+
 
 ---
 
