@@ -1,62 +1,74 @@
-# Personal Portfolio Vue
+# 💼 Ahmad Akrom Kamaluddin - Portfolio Website
 
-A personal portfolio website built using Vue.js and Vite, featuring a clean and responsive design to showcase projects, skills, and contact information.
+Selamat datang di repositori portfolio saya!  
+Website ini berfungsi sebagai representasi digital dari keahlian, pengalaman, dan proyek-proyek yang telah saya kerjakan sebagai mahasiswa Teknologi Informasi di Universitas Brawijaya.
 
-## Features
+---
 
-- Responsive and mobile-friendly layout
-- Project showcase with descriptions
-- About and contact sections
-- Tailwind CSS for styling
+## 📌 About Me
 
-## Requirements
+Saya adalah mahasiswa Teknologi Informasi yang memiliki minat tinggi di bidang pengembangan web dan mobile, Internet of Things (IoT), serta analisis data. Saya dikenal sebagai pribadi yang teliti, analitis, dan mampu beradaptasi dengan cepat dalam tim maupun kerja mandiri.
 
-- Node.js (v14 or later)
-- npm or yarn
+- 🎓 Universitas Brawijaya – Teknologi Informasi  
+- 🌍 Berdomisili di Gresik, Jawa Timur  
+- 💡 Tertarik pada: BackEnd Development, Data Engineering
 
-## Installation
+---
 
-1. Clone the repository:
+## 🛠️ Tech Stack
 
-   ```bash
-   git clone https://github.com/haiigas/simple-portfolio-vue.git
-   cd portfolio-vue
-   ```
+- **Frontend:** Vue.js, Next.Js, Tailwind CSS, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Laravel  
+- **Tools:** Git, GitHub, Figma, VS Code  
+- **Other:** MongoDB, MySQL, REST API, Discord Bot, Supabase
 
-2. Install dependencies:
+---
 
-    ```bash
-    npm install
-    # or
-    yarn
-    ```
+## 🚀 Projects
 
-3. Run the development server
+### 🧑‍⚕️ [Capstone Project - Posyandu Care](https://capstonesi.online)
+Transformasi digital sistem informasi Posyandu berbasis web dan mobile untuk meningkatkan layanan kesehatan masyarakat.
 
-    ```bash
-    npm run dev
-    # or
-    yarn dev
-    ```
+### 🌐 [Portfolio Website](https://portofolio-mo52.vercel.app)
+Situs web pribadi yang menampilkan biodata, pengalaman, dan proyek.
 
-4. Build for production
+### 🎮 [Trivia Game Website](https://trivia-lake-one.vercel.app)
+Game trivia interaktif berbasis web yang dibangun dengan desain menarik dan UX yang responsif.
 
-    ```bash
-    npm run build
-    # or
-    yarn build
-    ```
+### 🎧 [Music Platform Website](https://musicplat.vercel.app)
+Platform musik berbasis web yang memungkinkan pengguna streaming atau mengelola koleksi musik.
 
-## Customization
 
-- Update content in the `src` directory, especially the components under `views`.
-- Change styles or layout via Tailwind CSS classes.
-- Modify site metadata in `index.html` or `vite.config.js` as needed.
 
-## Contributing
+---
 
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
+## 🧑‍💼 Experience
 
-## License
+### 🔹 Brawijaya E-Sport – Divisi IT (Mar 2024 – Des 2024)
+- Mengembangkan dan memelihara website Brawijaya Esports
+- Maintenance server Discord
+- Support kebutuhan IT internal
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### 🔹 Asisten Praktikum – Universitas Brawijaya (Feb 2025 – Sekarang)
+- Membimbing praktikan mata kuliah Pengembangan Aplikasi Mobile
+- Menyiapkan materi, soal, dan membantu administrasi praktikum
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [ahmadakrom562@student.ub.ac.id](mailto:ahmadakrom562@student.ub.ac.id)  
+- 📱 WhatsApp: 0857-4066-9440  
+- 💼 LinkedIn: [linkedin.com/in/ahmad-akrom-kamaluddin](https://www.linkedin.com/in/ahmad-akrom-kamaluddin)  
+- 🌐 Portfolio: [portofolio-mo52.vercel.app](https://portofolio-mo52.vercel.app)
+
+---
+
+## 🔖 License
+
+Proyek ini bersifat open-source dan bebas digunakan untuk referensi belajar dan inspirasi.
+
+---
+
+Terima kasih telah mengunjungi portfolio saya 🙌  
+Silakan hubungi saya jika Anda tertarik untuk bekerja sama atau memiliki pertanyaan!
