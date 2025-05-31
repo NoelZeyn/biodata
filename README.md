@@ -38,6 +38,9 @@ Game trivia interaktif berbasis web yang dibangun dengan desain menarik dan UX y
 ### 🎧 [Music Platform Website](https://musicplat.vercel.app)
 Platform musik berbasis web yang memungkinkan pengguna streaming atau mengelola koleksi musik.
 
+### 🧑‍⚕️ Custom Bot Discord
+Perancangan Custom Bot Discord yang dirancang untuk mengelola layanan otomatis dalam penerapan game Growtopia.
+
 
 
 ---
