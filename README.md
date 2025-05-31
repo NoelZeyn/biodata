@@ -26,7 +26,7 @@ Saya adalah mahasiswa Teknologi Informasi yang memiliki minat tinggi di bidang p
 
 ## 🚀 Projects
 
-### 🧑‍⚕️ Capstone Project - Posyandu Care(https://capstonesi.online)
+### 🧑‍⚕️ [Capstone Project - Posyandu Care](https://capstonesi.online)
 Transformasi digital sistem informasi Posyandu berbasis web dan mobile untuk meningkatkan layanan kesehatan masyarakat.
 
 ### 🌐 [Portfolio Website](https://portofolio-mo52.vercel.app)
