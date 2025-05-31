@@ -12,15 +12,15 @@
         </p>
         <div class="flex flex-wrap gap-4">
           <router-link to="/about"
-            class="px-6 py-3 bg-black text-white rounded-none hover:bg-gray-900 transition-colors">
+            class="px-6 py-3 bg-black text-white rounded-md hover:bg-gray-900 transition-all duration-300 transform hover:scale-105">
             Get in Touch
           </router-link>
           <router-link to="/projects"
-            class="px-6 py-3 border border-gray-200 text-gray-800 rounded-none hover:bg-gray-50 transition-colors">
+            class="px-6 py-3 border border-gray-200 text-gray-800 rounded-md hover:bg-gray-50 transition-all duration-300 transform hover:scale-105">
             View Projects
           </router-link>
           <router-link to="/contact"
-            class="px-6 py-3 border border-gray-200 text-gray-800 rounded-none hover:bg-gray-100 transition-colors">
+            class="px-6 py-3 border border-gray-200 text-gray-800 rounded-md hover:bg-gray-100 transition-all duration-300 transform hover:scale-105">
             Let's Connect
           </router-link>
         </div>
@@ -51,7 +51,7 @@
         <div class="mt-16">
           <h3 class="text-xl font-bold mb-8">Technologies</h3>
           <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-x-8 gap-y-4">
-            <div v-for="(tech, index) in technologies" :key="index" class="flex items-center">
+            <div v-for="(tech, index) in technologies" :key="index" class="flex items-center transform hover:scale-105 transition-all duration-300">
               <component :is="tech.icon" class="w-5 h-5 text-gray-700 mr-3 flex-shrink-0" />
               <span class="text-gray-700">{{ tech.name }}</span>
             </div>
@@ -66,7 +66,7 @@
         <h2 class="text-2xl font-bold mb-10">Latest Projects</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div v-for="(project, index) in projects" :key="index"
-            class="border border-gray-100 p-6 hover:shadow-sm transition-shadow">
+            class="border border-gray-100 p-6 hover:shadow-xl transform hover:scale-105 transition-all duration-300">
             <h3 class="text-xl font-medium mb-2">{{ project.title }}</h3>
             <p class="text-gray-600 mb-4 text-sm">{{ project.description }}</p>
             <div class="flex flex-wrap gap-2 mb-4">
@@ -75,7 +75,7 @@
                 {{ tech }}
               </span>
             </div>
-            <a :href="project.liveLink" class="text-sm font-medium hover:underline flex items-center mt-2">
+            <a :href="project.liveLink" class="text-sm font-medium hover:underline flex items-center mt-2 transition-colors duration-300">
               View Project
             </a>
           </div>
@@ -83,7 +83,7 @@
 
         <!-- Show All Button -->
         <div class="mt-10">
-          <a href="https://capstonesi.online" class="text-sm font-medium flex items-center hover:underline">
+          <a href="https://capstonesi.online" class="text-sm font-medium flex items-center hover:underline transition-colors duration-300">
             Show All Projects
           </a>
         </div>
@@ -109,7 +109,7 @@
               <h4 class="text-sm uppercase tracking-wider text-gray-500 mb-4">Connect</h4>
               <div class="flex space-x-4">
                 <a v-for="(social, index) in socialLinks" :key="index" :href="social.link"
-                  class="text-gray-600 hover:text-black transition-colors">
+                  class="text-gray-600 hover:text-black transition-colors duration-300">
                   <component :is="social.icon" class="w-5 h-5" />
                 </a>
               </div>
