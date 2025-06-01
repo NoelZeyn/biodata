@@ -45,6 +45,13 @@ export const projects = [
     liveLink: "https://capstonesi.online",
   },
   {
+    title: "Visualisasi Peta & Data Kependudukan Desa Tingal",
+    description:
+      "Peta interaktif yang menampilkan detail lokasi dan data spasial Desa Tingal, terintegrasi dengan database kependudukan yang hanya dapat diakses oleh pengguna berwenang.",
+    technologies: ["QGIS"],
+    liveLink: "https://tingal.vercel.app",
+  },
+  {
     title: "Documentation Data Science Project",
     description:
       "Analysis and Visualitation earthquake data 2008–2022, Java Region",
