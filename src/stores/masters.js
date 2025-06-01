@@ -59,7 +59,7 @@ export const projects = [
     liveLink: "https://portofolio-mo52.vercel.app",
   },
   {
-    title: "Trivia Game",
+    title: "Trivia Game", 
     description:
       "A Game website with responsive design and leaderboard functionality",
     technologies: ["NextJS", "React", "TypeScript", "TailwindCSS", "supabase"],

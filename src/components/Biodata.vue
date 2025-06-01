@@ -14,6 +14,12 @@
           <p class="text-lg text-gray-600 mb-6">
             Mahasiswa Teknologi Informasi di Universitas Brawijaya
           </p>
+          <div>
+            <a href="/Curriculum Vitae_Ahmad Akrom Kamaluddin.pdf"
+            download
+            class="inline-block px-4 py-1 bg-blue-600 text-white font-semibold rounded-lg shadow hover:bg-blue-700 transition"
+            >Download File CV</a>
+          </div>
 
           <div class="space-y-3 text-gray-700 text-base">
             <div class="flex items-center">
@@ -70,7 +76,7 @@
             </div>
             <div>
               <h3 class="text-lg font-semibold text-gray-800">Asisten Praktikum – Universitas Brawijaya</h3>
-              <p class="text-sm text-gray-500 mb-1">MK Pengembangan Aplikasi Mobile | Feb 2025 – Sekarang</p>
+              <p class="text-sm text-gray-500 mb-1">Pengembangan Aplikasi Mobile | Feb 2025 – Sekarang</p>
               <ul class="list-disc pl-5 text-gray-600 text-sm">
                 <li>Membantu administrasi praktikum</li>
                 <li>Mengajarkan dan membimbing praktikan</li>
