@@ -134,6 +134,13 @@
                     Lihat Proyek
                   </a>
                 </div>
+                <div>
+                  <h4 class="font-semibold">Visualisasi Peta & Data Kependudukan Desa Tingal</h4>
+                  <p>Peta interaktif yang menampilkan detail lokasi dan data spasial Desa Tingal, terintegrasi dengan database kependudukan yang hanya dapat diakses oleh pengguna berwenang.</p>
+                  <a href="https://tingal.vercel.app" target="_blank" class="text-blue-600 hover:underline">
+                    Lihat Proyek
+                  </a>
+                </div>
               </div>
             </div>
           </div>
