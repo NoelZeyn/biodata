@@ -106,6 +106,20 @@
             <div>
               <h3 class="text-xl font-bold text-gray-900 mb-4 border-b pb-2">Proyek</h3>
               <div class="space-y-4 text-sm text-gray-700">
+                                <div>
+                  <h4 class="font-semibold">Capstone Project – Posyandu Care</h4>
+                  <p>Transformasi digital sistem informasi posyandu berbasis Web dan Mobile.</p>
+                  <a href="https://capstonesi.online" target="_blank" class="text-blue-600 hover:underline">
+                    Lihat Proyek
+                  </a>
+                </div>
+                <div>
+                  <h4 class="font-semibold">Visualisasi Peta & Data Kependudukan Desa Tingal</h4>
+                  <p>Peta interaktif yang menampilkan detail lokasi dan data spasial Desa Tingal, terintegrasi dengan database kependudukan yang hanya dapat diakses oleh pengguna berwenang.</p>
+                  <a href="https://tingal.vercel.app" target="_blank" class="text-blue-600 hover:underline">
+                    Lihat Proyek
+                  </a>
+                </div>
                 <div>
                   <h4 class="font-semibold">Portfolio Website</h4>
                   <p>Situs web pribadi untuk menampilkan profil dan proyek.</p>
@@ -124,20 +138,6 @@
                   <h4 class="font-semibold">Music Platform Website</h4>
                   <p>Situs web streaming dan koleksi musik.</p>
                   <a href="https://musicplat.vercel.app" target="_blank" class="text-blue-600 hover:underline">
-                    Lihat Proyek
-                  </a>
-                </div>
-                <div>
-                  <h4 class="font-semibold">Capstone Project – Posyandu Care</h4>
-                  <p>Transformasi digital sistem informasi posyandu berbasis Web dan Mobile.</p>
-                  <a href="https://capstonesi.online" target="_blank" class="text-blue-600 hover:underline">
-                    Lihat Proyek
-                  </a>
-                </div>
-                <div>
-                  <h4 class="font-semibold">Visualisasi Peta & Data Kependudukan Desa Tingal</h4>
-                  <p>Peta interaktif yang menampilkan detail lokasi dan data spasial Desa Tingal, terintegrasi dengan database kependudukan yang hanya dapat diakses oleh pengguna berwenang.</p>
-                  <a href="https://tingal.vercel.app" target="_blank" class="text-blue-600 hover:underline">
                     Lihat Proyek
                   </a>
                 </div>
