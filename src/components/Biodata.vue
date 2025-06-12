@@ -135,9 +135,16 @@
                   </a>
                 </div>
                 <div>
-                  <h4 class="font-semibold">Music Platform Website</h4>
+                  <h4 class="font-semibold">(Pending) Music Platform Website</h4>
                   <p>Situs web streaming dan koleksi musik.</p>
                   <a href="https://musicplat.vercel.app" target="_blank" class="text-blue-600 hover:underline">
+                    Lihat Proyek
+                  </a>
+                </div>
+                <div>
+                  <h4 class="font-semibold">(OnGoing) SIAS Pongangan Gresik</h4>
+                  <p>Layanan Sistem Informasi untuk pengelolaan data akademik UPT SD NEGERI 43 GRESIK</p>
+                  <a href="#" target="_blank" class="text-blue-600 hover:underline">
                     Lihat Proyek
                   </a>
                 </div>
