@@ -81,13 +81,13 @@ export const projects = [
   },
 
   {
-    title: "(OnGoing) Music Platform, User Forum, Admin Management (ONGOING PROJECT)",
+    title: "(Pending) Music Platform, User Forum, Admin Management",
     description: "Music Platform with authentication to general & admin",
     technologies: ["NextJS", "React", "TypeScript", "TailwindCSS", "supabase"],
     liveLink: "https://trivia-lake-one.vercel.app",
   },
   {
-    title: "(Pending) SIAS Pongangan Gresik",
+    title: "(OnGoing) SIAS Pongangan Gresik",
     description: "Layanan Sistem Informasi untuk pengelolaan data akademik UPT SD NEGERI 43 GRESIK",
     // technologies: ["NextJS", "React", "TypeScript", "TailwindCSS", "supabase"],
     liveLink: "#",
