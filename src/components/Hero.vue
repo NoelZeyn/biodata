@@ -8,7 +8,7 @@
           I Create & Build Solutions.
         </h1>
         <p class="text-lg text-gray-600 mb-8 leading-relaxed">
-          Web developer and Software developer.
+          Web developer and Backend developer.
         </p>
         <div class="flex flex-wrap gap-4">
           <router-link
