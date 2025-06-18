@@ -142,8 +142,8 @@
                   </a>
                 </div>
                 <div>
-                  <h4 class="font-semibold">(OnGoing) SIAS Pongangan Gresik</h4>
-                  <p>Layanan Sistem Informasi untuk pengelolaan data akademik UPT SD NEGERI 43 GRESIK</p>
+                  <h4 class="font-semibold">(OnGoing) Masjid App Mamba'ul Huda</h4>
+                  <p>Layanan Sistem Informasi untuk pengelolaan data Masjid Mamba'ul Huda</p>
                   <a href="#" target="_blank" class="text-blue-600 hover:underline">
                     Lihat Proyek
                   </a>

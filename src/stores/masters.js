@@ -87,8 +87,8 @@ export const projects = [
     liveLink: "https://trivia-lake-one.vercel.app",
   },
   {
-    title: "(OnGoing) SIAS Pongangan Gresik",
-    description: "Layanan Sistem Informasi untuk pengelolaan data akademik UPT SD NEGERI 43 GRESIK",
+    title: "(OnGoing) Masjid App Mamba'ul Huda",
+    description: "Layanan Sistem Informasi untuk pengelolaan data Masjid Mamba'ul Huda",
     // technologies: ["NextJS", "React", "TypeScript", "TailwindCSS", "supabase"],
     liveLink: "#",
   },
