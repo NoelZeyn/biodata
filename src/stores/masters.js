@@ -66,7 +66,7 @@ export const projects = [
     liveLink: "https://portofolio-mo52.vercel.app",
   },
   {
-    title: "Trivia Game", 
+    title: "Trivia Game",
     description:
       "A Game website with responsive design and leaderboard functionality",
     technologies: ["NextJS", "React", "TypeScript", "TailwindCSS", "supabase"],
@@ -88,8 +88,16 @@ export const projects = [
   },
   {
     title: "(OnGoing) Masjid App Mamba'ul Huda",
-    description: "Layanan Sistem Informasi untuk pengelolaan data Masjid Mamba'ul Huda",
-    // technologies: ["NextJS", "React", "TypeScript", "TailwindCSS", "supabase"],
+    description:
+      "Layanan Sistem Informasi untuk pengelolaan data Masjid Mamba'ul Huda",
+    technologies: [
+      "Laravel",
+      "MySQL",
+      "PHP",
+      "VueJS",
+      "TailwindCSS",
+      "Jetpack Compose",
+    ],
     liveLink: "#",
   },
 ];
