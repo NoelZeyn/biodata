@@ -11,11 +11,8 @@
           <div class="grid grid-cols-1 md:grid-cols-3 gap-10 items-start">
             <!-- Foto -->
             <div class="flex justify-center md:justify-start">
-              <img
-                class="w-40 h-40 rounded-full border-4 border-blue-200 shadow-md object-cover"
-                src="../assets/foto.jpg"
-                alt="Foto Biodata"
-              />
+              <img class="w-40 h-40 rounded-full border-4 border-blue-200 shadow-md object-cover"
+                src="../assets/foto.jpg" alt="Foto Biodata" />
             </div>
 
             <!-- Informasi Umum -->
@@ -30,11 +27,8 @@
               </div>
 
               <div>
-                <a
-                  href="/Curriculum Vitae_Ahmad Akrom Kamaluddin.pdf"
-                  download
-                  class="inline-block px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
-                >
+                <a href="/Curriculum Vitae_Ahmad Akrom Kamaluddin.pdf" download
+                  class="inline-block px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
                   Download CV
                 </a>
               </div>
@@ -56,7 +50,8 @@
                 </div>
                 <div class="flex">
                   <span class="w-40 font-medium">LinkedIn:</span>
-                  <a href="https://www.linkedin.com/in/ahmad-akrom-kamaluddin" target="_blank" class="text-blue-600 hover:underline">
+                  <a href="https://www.linkedin.com/in/ahmad-akrom-kamaluddin" target="_blank"
+                    class="text-blue-600 hover:underline">
                     linkedin.com/in/ahmad-akrom-kamaluddin
                   </a>
                 </div>
@@ -72,7 +67,8 @@
 
           <!-- Deskripsi -->
           <p class="mt-10 text-gray-700 text-justify leading-relaxed">
-            Saya adalah mahasiswa Teknologi Informasi yang memiliki kemampuan analisis yang baik, teliti, dan cepat beradaptasi. Berpengalaman dalam organisasi serta mampu bekerja secara individu maupun dalam tim.
+            Saya adalah mahasiswa Teknologi Informasi yang memiliki kemampuan analisis yang baik, teliti, dan cepat
+            beradaptasi. Berpengalaman dalam organisasi serta mampu bekerja secara individu maupun dalam tim.
           </p>
 
           <!-- Pengalaman & Proyek -->
@@ -99,6 +95,15 @@
                     <li>Menyiapkan materi dan soal praktikum</li>
                   </ul>
                 </div>
+                <div>
+                  <h4 class="font-semibold">PT PLN Nusantara Power UP Gresik PKL</h4>
+                  <p class="text-gray-500">Divisi SINFO | Jun 2025 – Aug 2025</p>
+                  <ul class="list-disc list-inside">
+                    <li>Membangun sistem pengajuan pengadaan dari awal</li>
+                    <li>Mendesain dan mengimplementasikan sistem pengajuan pengadaan</li>
+                    <li>Melakukan pengujian sistem pengajuan pengadaan</li>
+                  </ul>
+                </div>
               </div>
             </div>
 
@@ -106,8 +111,16 @@
             <div>
               <h3 class="text-xl font-bold text-gray-900 mb-4 border-b pb-2">Proyek</h3>
               <div class="space-y-4 text-sm text-gray-700">
-                                <div>
-                  <h4 class="font-semibold">Capstone Project – Posyandu Care</h4>
+                <div>
+                  <h4 class="font-semibold">Sistem Informasi Manajemen Pengadaan Material Consumable (SIMAC)</h4>
+                  <p>Sistem Informasi Manajemen Pengadaan Material Consumable (SIMAC) adalah aplikasi berbasis web yang
+                    dirancang untuk mengelola pengadaan material consumable di PT. PLN Nusantara Power UP Gresik.</p>
+                  <!-- <a href="https://capstonesi.online" target="_blank" class="text-blue-600 hover:underline">
+                    Lihat Proyek
+                  </a> -->
+                </div>
+                <div>
+                  <h4 class="font-semibold">Capstone Posyandu Care</h4>
                   <p>Transformasi digital sistem informasi posyandu berbasis Web dan Mobile.</p>
                   <a href="https://capstonesi.online" target="_blank" class="text-blue-600 hover:underline">
                     Lihat Proyek
@@ -115,18 +128,32 @@
                 </div>
                 <div>
                   <h4 class="font-semibold">Visualisasi Peta & Data Kependudukan Desa Tingal</h4>
-                  <p>Peta interaktif yang menampilkan detail lokasi dan data spasial Desa Tingal, terintegrasi dengan database kependudukan yang hanya dapat diakses oleh pengguna berwenang.</p>
+                  <p>Peta interaktif yang menampilkan detail lokasi dan data spasial Desa Tingal, terintegrasi dengan
+                    database kependudukan yang hanya dapat diakses oleh pengguna berwenang.</p>
                   <a href="https://tingal.vercel.app" target="_blank" class="text-blue-600 hover:underline">
                     Lihat Proyek
                   </a>
                 </div>
                 <div>
                   <h4 class="font-semibold">Portfolio Website</h4>
-                  <p>Situs web pribadi untuk menampilkan profil dan proyek.</p>
-                  <a href="https://portofolio-mo52.vercel.app" target="_blank" class="text-blue-600 hover:underline">
-                    Lihat Proyek
-                  </a>
+                  <p>Situs web pribadi untuk menampilkan profil, keterampilan, dan proyek.</p>
+                  <ul class="list-disc list-inside">
+                    <li>
+                      <strong>Old Portfolio:</strong>
+                      <a href="https://portofolio-mo52.vercel.app" target="_blank"
+                        class="text-blue-600 hover:underline">
+                        portofolio-mo52.vercel.app
+                      </a> (React.js)
+                    </li>
+                    <li>
+                      <strong>New Portfolio:</strong>
+                      <a href="https://biodata-rouge.vercel.app" target="_blank" class="text-blue-600 hover:underline">
+                        biodata-rouge.vercel.app
+                      </a> (Vue.js)
+                    </li>
+                  </ul>
                 </div>
+
                 <div>
                   <h4 class="font-semibold">Trivia Game Website</h4>
                   <p>Permainan trivia interaktif berbasis web.</p>
@@ -169,6 +196,7 @@ import { navItems } from '../stores/menus.js';
 img {
   transition: transform 0.3s ease;
 }
+
 img:hover {
   transform: scale(1.05);
 }

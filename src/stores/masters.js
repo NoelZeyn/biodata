@@ -38,11 +38,18 @@ export const technologies = [
 
 export const projects = [
   {
+    title: "Sistem Informasi Manajemen Pengadaan Material Consumable (SIMAC)",
+    description:
+      "Sistem Informasi Manajemen Pengadaan Material Consumable (SIMAC) adalah aplikasi berbasis web yang dirancang untuk mengelola pengadaan material consumable di PT. PLN Nusantara Power UP Gresik.",
+    technologies: ["Laravel", "MySQL", "PHP", "VueJS"],
+    // liveLink: "https://posyandu.capstonesi.online",
+  },
+  {
     title: "Posyandu Care",
     description:
       "Transformasi digital layanan posyandu dengan penerapan Website dan Mobile",
     technologies: ["Laravel", "MySQL", "PHP", "VueJS", "Jetpack Compose"],
-    liveLink: "https://capstonesi.online",
+    liveLink: "https://posyandu.capstonesi.online",
   },
   {
     title: "Visualisasi Peta & Data Kependudukan Desa Tingal",
