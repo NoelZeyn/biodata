@@ -57,8 +57,8 @@
                 </div>
                 <div class="flex">
                   <span class="w-40 font-medium">Portfolio:</span>
-                  <a href="https://portofolio-mo52.vercel.app" target="_blank" class="text-blue-600 hover:underline">
-                    portofolio-mo52.vercel.app
+                  <a href="https://biodata-rouge.vercel.app/" target="_blank" class="text-blue-600 hover:underline">
+                    biodata-rouge.vercel.app
                   </a>
                 </div>
               </div>
@@ -71,8 +71,8 @@
             beradaptasi. Berpengalaman dalam organisasi serta mampu bekerja secara individu maupun dalam tim.
           </p>
 
-          <!-- Pengalaman & Proyek -->
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mt-16">
+          <!-- Pengalaman, Proyek, Pelatihan -->
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-12 mt-16">
             <!-- Pengalaman -->
             <div>
               <h3 class="text-xl font-bold text-gray-900 mb-4 border-b pb-2">Pengalaman</h3>
@@ -88,7 +88,7 @@
                 </div>
                 <div>
                   <h4 class="font-semibold">Asisten Praktikum – Universitas Brawijaya</h4>
-                  <p class="text-gray-500">Pengembangan Aplikasi Mobile | Feb 2025 – Sekarang</p>
+                  <p class="text-gray-500">Pengembangan Aplikasi Mobile | Feb 2025 – Jun 2025</p>
                   <ul class="list-disc list-inside">
                     <li>Membantu administrasi praktikum</li>
                     <li>Mengajarkan dan membimbing praktikan</li>
@@ -113,67 +113,57 @@
               <div class="space-y-4 text-sm text-gray-700">
                 <div>
                   <h4 class="font-semibold">Sistem Informasi Manajemen Pengadaan Material Consumable (SIMAC)</h4>
-                  <p>Sistem Informasi Manajemen Pengadaan Material Consumable (SIMAC) adalah aplikasi berbasis web yang
-                    dirancang untuk mengelola pengadaan material consumable di PT. PLN Nusantara Power UP Gresik.</p>
-                  <!-- <a href="https://capstonesi.online" target="_blank" class="text-blue-600 hover:underline">
-                    Lihat Proyek
-                  </a> -->
+                  <p>Aplikasi web untuk mengelola pengadaan material consumable di PT. PLN Nusantara Power UP Gresik.</p>
                 </div>
                 <div>
                   <h4 class="font-semibold">Capstone Posyandu Care</h4>
                   <p>Transformasi digital sistem informasi posyandu berbasis Web dan Mobile.</p>
-                  <a href="https://capstonesi.online" target="_blank" class="text-blue-600 hover:underline">
-                    Lihat Proyek
-                  </a>
+                  <a href="https://capstonesi.online" target="_blank" class="text-blue-600 hover:underline">Lihat Proyek</a>
                 </div>
                 <div>
                   <h4 class="font-semibold">Visualisasi Peta & Data Kependudukan Desa Tingal</h4>
-                  <p>Peta interaktif yang menampilkan detail lokasi dan data spasial Desa Tingal, terintegrasi dengan
-                    database kependudukan yang hanya dapat diakses oleh pengguna berwenang.</p>
-                  <a href="https://tingal.vercel.app" target="_blank" class="text-blue-600 hover:underline">
-                    Lihat Proyek
-                  </a>
+                  <p>Peta interaktif dengan integrasi database kependudukan.</p>
+                  <a href="https://tingal.vercel.app" target="_blank" class="text-blue-600 hover:underline">Lihat Proyek</a>
                 </div>
                 <div>
                   <h4 class="font-semibold">Portfolio Website</h4>
                   <p>Situs web pribadi untuk menampilkan profil, keterampilan, dan proyek.</p>
                   <ul class="list-disc list-inside">
-                    <li>
-                      <strong>Old Portfolio:</strong>
-                      <a href="https://portofolio-mo52.vercel.app" target="_blank"
-                        class="text-blue-600 hover:underline">
-                        portofolio-mo52.vercel.app
-                      </a> (React.js)
-                    </li>
-                    <li>
-                      <strong>New Portfolio:</strong>
-                      <a href="https://biodata-rouge.vercel.app" target="_blank" class="text-blue-600 hover:underline">
-                        biodata-rouge.vercel.app
-                      </a> (Vue.js)
-                    </li>
+                    <li><strong>Old Portfolio:</strong> <a href="https://portofolio-mo52.vercel.app" target="_blank" class="text-blue-600 hover:underline">portofolio-mo52.vercel.app</a> (React.js)</li>
+                    <li><strong>New Portfolio:</strong> <a href="https://biodata-rouge.vercel.app" target="_blank" class="text-blue-600 hover:underline">biodata-rouge.vercel.app</a> (Vue.js)</li>
                   </ul>
                 </div>
-
                 <div>
                   <h4 class="font-semibold">Trivia Game Website</h4>
                   <p>Permainan trivia interaktif berbasis web.</p>
-                  <a href="https://trivia-lake-one.vercel.app" target="_blank" class="text-blue-600 hover:underline">
-                    Lihat Proyek
-                  </a>
+                  <a href="https://trivia-lake-one.vercel.app" target="_blank" class="text-blue-600 hover:underline">Lihat Proyek</a>
+                </div>
+              </div>
+            </div>
+
+            <!-- Pelatihan -->
+            <div>
+              <h3 class="text-xl font-bold text-gray-900 mb-4 border-b pb-2">Pelatihan</h3>
+              <div class="space-y-4 text-sm text-gray-700">
+                <div>
+                  <h4 class="font-semibold">Program Membangun Desa - Desa Tingal</h4>
+                  <p class="text-gray-500">Juli 2024 – Agustus 2024</p>
+                  <ul class="list-disc list-inside">
+                    <li>Penanggung Jawab Acara dan merealisasikan program kerja dengan baik dan sukses.</li>
+                  </ul>
                 </div>
                 <div>
-                  <h4 class="font-semibold">(Pending) Music Platform Website</h4>
-                  <p>Situs web streaming dan koleksi musik.</p>
-                  <a href="https://musicplat.vercel.app" target="_blank" class="text-blue-600 hover:underline">
-                    Lihat Proyek
-                  </a>
+                  <h4 class="font-semibold">Kompetisi CTF (Capture The Flag)</h4>
+                  <p class="text-gray-500">November 2024</p>
+                  <ul class="list-disc list-inside">
+                    <li>BlueHens CTF – Peringkat 317 dari 498 Tim</li>
+                    <li>Hackers N' Hops – Peringkat 126 dari 340 Tim</li>
+                    <li>TSA - Cyber Champion Kominfo – Peringkat 61 dari 239 Tim</li>
+                  </ul>
                 </div>
                 <div>
-                  <h4 class="font-semibold">(OnGoing) Masjid App Mamba'ul Huda</h4>
-                  <p>Layanan Sistem Informasi untuk pengelolaan data Masjid Mamba'ul Huda</p>
-                  <a href="#" target="_blank" class="text-blue-600 hover:underline">
-                    Lihat Proyek
-                  </a>
+                  <h4 class="font-semibold">Pelatihan & Sertifikasi Cisco CCNA 2025</h4>
+                  <p class="text-gray-500">Agustus 2025</p>
                 </div>
               </div>
             </div>
