@@ -96,6 +96,15 @@
                   </ul>
                 </div>
                 <div>
+                  <h4 class="font-semibold">Asisten Praktikum – Universitas Brawijaya</h4>
+                  <p class="text-gray-500">Teknologi Keamanan Siber | September 2025 – November 2025</p>
+                  <ul class="list-disc list-inside">
+                    <li>Membimbing mahasiswa dalam pelaksanaan praktikum</li>
+                    <li>Menyusun pengujian kemampuan praktikum </li>
+                    <li>Melakukan evaluasi dan pelaporan hasil kegiatan praktikum.</li>
+                  </ul>
+                </div>
+                <div>
                   <h4 class="font-semibold">PT PLN Nusantara Power UP Gresik PKL</h4>
                   <p class="text-gray-500">Divisi SINFO | Jun 2025 – Aug 2025</p>
                   <ul class="list-disc list-inside">
