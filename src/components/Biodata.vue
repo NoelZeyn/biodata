@@ -127,7 +127,12 @@
                 <div>
                   <h4 class="font-semibold">Capstone Posyandu Care</h4>
                   <p>Transformasi digital sistem informasi posyandu berbasis Web dan Mobile.</p>
-                  <a href="https://capstonesi.online" target="_blank" class="text-blue-600 hover:underline">Lihat Proyek</a>
+                  <a href="https://posyandu.koryuz.com" target="_blank" class="text-blue-600 hover:underline">Lihat Proyek</a>
+                </div>
+                <div>
+                  <h4 class="font-semibold">Sistem Antrian & Monetisasi Streamer MLBB</h4>
+                  <p>Integrasi Saweria & Sociabuzz untuk auto player, wallet, dan antrian (VIP/Public) dengan tracking history berbasis jadwal.</p>
+                  <a href="https://koryuz.com" target="_blank" class="text-blue-600 hover:underline">Lihat Proyek</a>
                 </div>
                 <div>
                   <h4 class="font-semibold">Visualisasi Peta & Data Kependudukan Desa Tingal</h4>
@@ -171,8 +176,32 @@
                   </ul>
                 </div>
                 <div>
+                  <h4 class="font-semibold">Java (Basic) Certificate - HackerRank</h4>
+                  <p class="text-gray-500">Juni 2025</p>
+                </div>
+                <div>
                   <h4 class="font-semibold">Pelatihan & Sertifikasi Cisco CCNA 2025</h4>
                   <p class="text-gray-500">Agustus 2025</p>
+                </div>
+                <div>
+                  <h4 class="font-semibold">Pelatihan dan Sertifikasi Kompetensi IT</h4>
+                  <p class="text-gray-500">Agustus 2025</p>
+                </div>
+                <div>
+                  <h4 class="font-semibold">Sertifikasi Web Developer BNSP</h4>
+                  <p class="text-gray-500">September 2025</p>
+                </div>
+                <div>
+                  <h4 class="font-semibold">SQL (Basic) Certificate - HackerRank</h4>
+                  <p class="text-gray-500">Februari 2026</p>
+                </div>
+                <div>
+                  <h4 class="font-semibold">SQL (Intermediate) Certificate - HackerRank</h4>
+                  <p class="text-gray-500">Februari 2026</p>
+                </div>
+                <div>
+                  <h4 class="font-semibold">Sertifikasi Data Analyst BNSP</h4>
+                  <p class="text-gray-500">April 2026</p>
                 </div>
               </div>
             </div>

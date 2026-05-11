@@ -49,7 +49,14 @@ export const projects = [
     description:
       "Transformasi digital layanan posyandu dengan penerapan Website dan Mobile",
     technologies: ["Laravel", "MySQL", "PHP", "VueJS", "Jetpack Compose"],
-    liveLink: "https://posyandu.capstonesi.online",
+    liveLink: "https://posyandu.koryuz.com",
+  },
+  {
+    title: "•	Sistem Antrian & Monetisasi Streamer MLBB",
+    description:
+      "Integrasi Saweria & Sociabuzz untuk auto player, wallet, dan antrian (VIP/Public) dengan tracking history berbasis jadwal ",
+    technologies: ["Laravel", "MySQL", "PHP", "VueJS", "Hostinger"],
+    liveLink: "https://koryuz.com",
   },
   {
     title: "Visualisasi Peta & Data Kependudukan Desa Tingal",
@@ -65,6 +72,14 @@ export const projects = [
     technologies: ["Google Colab Research"],
     liveLink:
       "https://docs.google.com/document/d/1Nnua451BUnxm-RqBGzFDHgI2pwkso_UZZBs3CBCP8rQ/edit?usp=sharing",
+  },
+  {
+    title: "Data Analyst Simple Project",
+    description:
+      "Akselerasi Profit Margin Monitor 10%: Fokus Pemulihan Kalimantan Timur ",
+    technologies: ["Data Studio"],
+    liveLink:
+      "https://drive.google.com/drive/folders/19eIZZUQKra983NA4K80kbH_UAM21qRIW?usp=sharing",
   },
   {
     title: "Personal Portfolio",
