@@ -86,25 +86,4 @@ export const projects = [
     technologies: ["MongoDB", "JavaScript"],
     // liveLink: "https://trivia-lake-one.vercel.app",
   },
-
-  {
-    title: "(Pending) Music Platform, User Forum, Admin Management",
-    description: "Music Platform with authentication to general & admin",
-    technologies: ["NextJS", "React", "TypeScript", "TailwindCSS", "supabase"],
-    liveLink: "https://trivia-lake-one.vercel.app",
-  },
-  {
-    title: "(OnGoing) Masjid App Mamba'ul Huda",
-    description:
-      "Layanan Sistem Informasi untuk pengelolaan data Masjid Mamba'ul Huda",
-    technologies: [
-      "Laravel",
-      "MySQL",
-      "PHP",
-      "VueJS",
-      "TailwindCSS",
-      "Jetpack Compose",
-    ],
-    liveLink: "#",
-  },
 ];
